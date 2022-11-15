@@ -1,2 +1,2 @@
 # turmatop1A
-descobertas cibernéticas
+Pensamento Computacional
